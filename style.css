@@ -1,0 +1,21 @@
+h1{
+ 
+        
+        margin: 240px;
+        margin-left: 281px;
+        margin-top: 252px;
+        font-size: 80px;
+    }
+    body{
+        background-color: darkolivegreen;
+    }
+    img{
+        width: 81cm;
+    height: 52cm;
+}
+nav li{
+    font-size: 2cm;
+    float: left;
+    background-color: rosybrown;
+    
+}
